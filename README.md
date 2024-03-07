@@ -1,70 +1,36 @@
-# Getting Started with Create React App
+# React Countdown Timer Application for Boutique Design Platform
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to Digitec Innovation. As part of our continuous evolution, we're seeking talented individuals like you to join our enterprise. This stage of the interview assesses your coding speed and knowledge.
 
-## Available Scripts
+## Task Overview
 
-In the project directory, you can run:
+Your task is to develop a React application that displays a countdown timer to the launch of new merchandise for a Boutique Design Platform. This application should emulate the design shown in the provided "countdown-balenciaga.jpg" image.
 
-### `npm start`
+### Requirements
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. Debug and Install the required packages (using Tailwind.css is a bonus)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+2. Set a Target Date: Define a target date for the merchandise launch within App.js.
 
-### `npm test`
+3. Pass Target Date to Component: Pass this target date as props to a Countdown.js component.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+4. Countdown Calculation: Utilize a library to calculate and display the time remaining until the target date.
 
-### `npm run build`
+5. Loading Delay: Implement a 1-minute loading delay before the countdown page is rendered, which should be indicated by a loading spinner.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+6. Design Implementation: Replicate the design as closely as possible based on "countdown-balenciaga.jpg", including the countdown timer and any additional elements shown in the image.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Deliverables
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Upon completion, your project should include the following:
 
-### `npm run eject`
+* A functioning React application that meets the design and functional requirements.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+* A Countdown.js component that receives the target date via props and displays the remaining time.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* An initial loading state featuring a spinner, which transitions to the countdown timer after a 1-minute delay.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+* A user interface that matches the provided "countdown-balenciaga.jpg" design.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#### Good luck with your task. 
