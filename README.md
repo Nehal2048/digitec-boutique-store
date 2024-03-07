@@ -8,17 +8,18 @@ Your task is to develop a React application that displays a countdown timer to t
 
 ### Requirements
 
-1. Debug and Install the required packages (using Tailwind.css is a bonus)
+1. Create a new branch; debug and install the required packages (using Tailwind.css is a bonus)
 
-2. Set a Target Date: Define a target date for the merchandise launch within App.js.
+3. Set a Target Date: Define a target date for the merchandise launch within App.js.
 
-3. Pass Target Date to Component: Pass this target date as props to a Countdown.js component.
+4. Pass Target Date to Component: Pass this target date as props to a Countdown.js component.
 
-4. Countdown Calculation: Utilize a library to calculate and display the time remaining until the target date.
+5. Countdown Calculation: Utilize a library to calculate and display the time remaining until the target date.
 
-5. Loading Delay: Implement a 1-minute loading delay before the countdown page is rendered, which should be indicated by a loading spinner.
+6. Loading Delay: Implement a 1-minute loading delay before the countdown page is rendered, which should be indicated by a loading spinner.
 
-6. Design Implementation: Replicate the design as closely as possible based on "countdown-balenciaga.jpg", including the countdown timer and any additional elements shown in the image.
+7. Design Implementation: Replicate the design as closely as possible based on "countdown-balenciaga.jpg", including the countdown timer and any additional elements shown in the image.
+
 
 ### Deliverables
 
