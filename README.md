@@ -42,4 +42,4 @@ Upon completion, your project should encompass the following:
 
 We will evaluate your submission by running `npm i && npm start`. Your deliverable will be judged based on the quality of your code and the time taken to complete the task.
 
-#### Best of luck with your task!.
+#### Best of luck with your task!
